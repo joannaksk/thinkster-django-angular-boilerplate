@@ -17,3 +17,6 @@
 * `$ python manage.py migrate`
 * `$ python manage.py runserver`
 
+<br />
+So I've successfully completed the tutorial at https://thinkster.io/django-angularjs-tutorial#displaying-user-profiles with python 3. :)
+
